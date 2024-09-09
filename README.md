@@ -1,2 +1,2 @@
 # Calculator
-basic calculator for mathematical operation using C
+Basic calculator for mathematical operation using C
